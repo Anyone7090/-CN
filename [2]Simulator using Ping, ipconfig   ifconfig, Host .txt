@@ -1,0 +1,17 @@
+1) Ping 
+
+2) Ipconfig/ Ifconfig
+
+3)  Host name
+
+4) Netsat -an
+
+5) Route / Route Print
+
+6) Route table / Tracert
+
+7) Tracert / Tracert 8.8.8.8
+
+8) NSlookup
+
+9) ARP
